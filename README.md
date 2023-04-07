@@ -25,7 +25,7 @@ DRF 3.12
     ```
     pip install -r requirements.txt
     ````
-- Выполнить миграции::
+- Выполните миграции::
     ```
     python3 manage.py migrate
     ```
